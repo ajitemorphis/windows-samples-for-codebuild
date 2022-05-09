@@ -15,5 +15,3 @@ artifacts:
   files:
     - .\CSharpHelloWorld\bin\Debug\*
   name: self-ajit-$(date +%Y-%m-%d)  
-
-
